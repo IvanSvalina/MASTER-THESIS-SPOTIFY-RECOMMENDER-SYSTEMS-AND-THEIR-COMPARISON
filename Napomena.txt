@@ -1,0 +1,2 @@
+Kod za preporuke i evaluaciju
+Prilikom pokretanja koda za preporuke i evaluaciju potrebno je promijenit putanju za datoteke u kojima se nalaze podaci
